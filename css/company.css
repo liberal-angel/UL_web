@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.company-info {
+  width: 100%;
+  border-bottom: 1px solid #222;
+}
+
+.company-info-name,
+.company-info-data {
+  border-top: 1px solid #222;
+  padding: 20px 0;
+}
+
+.company-info-name {
+  font-weight: bold;
+  width: 30%;
+}
+
+.company-info-data {
+  width: 70%;
+}
